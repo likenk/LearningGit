@@ -1,1 +1,2 @@
-This is a a.txt
+Hello world
+深圳天气太热了,过两天就中秋节了,真开心
